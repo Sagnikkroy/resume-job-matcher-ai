@@ -1,0 +1,16 @@
+Machine Learning Engineer (NLP) - Junior
+
+We are looking for a Junior ML Engineer to join our language technology team.
+
+Responsibilities
+- Build and deploy NLP models and LLM-powered features.
+- Work with transformers, prompt engineering and REST APIs.
+- Collaborate with backend engineers to ship features to production.
+
+Requirements
+- Bachelor's degree in Computer Science or related field.
+- Strong Python skills; experience with PyTorch or TensorFlow.
+- Experience with NLP libraries (spaCy, Hugging Face Transformers).
+- Knowledge of SQL and Git.
+- Familiarity with Docker and cloud platforms (AWS or GCP) is a plus.
+- 0-2 years of experience.

@@ -1,0 +1,19 @@
+# Configuration for the Resume-Job Matcher (Google Gemini)
+llm:
+  model: gemini-2.5-flash       # fast and free-tier friendly; change to gemini-2.5-pro for deeper analysis
+  temperature: 0.2              # low = consistent, repeatable scoring
+  max_output_tokens: 8192
+  max_retries: 3
+  retry_backoff_seconds: 2
+
+input:
+  max_chars: 15000              # truncate very long documents to control cost
+  allowed_extensions: [".pdf", ".txt", ".docx"]
+
+paths:
+  prompts: prompts.yaml
+  history_file: .cache/history.json
+
+app:
+  title: "AI Resume - Job Matcher"
+  save_history: true

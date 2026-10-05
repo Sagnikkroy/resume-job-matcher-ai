@@ -1,0 +1,21 @@
+Priya Sharma
+priya.sharma@example.com | Jaipur, India
+
+SUMMARY
+Final-year B.Tech Computer Science student with hands-on experience in Python, machine learning and building small web applications.
+
+EDUCATION
+B.Tech in Computer Science, Rajasthan Technical University (2022 - 2026), CGPA 8.2
+
+SKILLS
+Python, SQL, Pandas, NumPy, scikit-learn, Flask, Git, HTML/CSS, basic NLP (NLTK, spaCy)
+
+EXPERIENCE
+Data Science Intern, TechNova Pvt Ltd (Jun 2025 - Aug 2025)
+- Built a customer churn prediction model with scikit-learn reaching 87% accuracy.
+- Cleaned and analysed a 200k-row dataset using Pandas and SQL.
+- Created a Flask dashboard used by the sales team.
+
+PROJECTS
+- Sentiment Analyzer: classified movie reviews using TF-IDF and logistic regression (89% accuracy).
+- News Classifier: spaCy based pipeline to categorise news into 5 topics.
